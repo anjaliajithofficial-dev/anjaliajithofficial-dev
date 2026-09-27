@@ -16,7 +16,9 @@
 
 ### 🚀 Recent Projects
 
-*   **Stock Management:** A production-style PHP/MySQL web application that digitises the entire stationery and stock-request workflow of an engineering college. Built for deployment on a WAMP server with no external PHP dependencies. Link:https://github.com/anjaliajithofficial-dev/Stock_Management.git
+*   **Stock Management:** A production-style PHP/MySQL web application that digitises the entire stationery and stock-request workflow of an engineering college. Built for deployment on a WAMP server with no external PHP dependencies. 
+
+Link:https://github.com/anjaliajithofficial-dev/Stock_Management.git
 
 ---
 
