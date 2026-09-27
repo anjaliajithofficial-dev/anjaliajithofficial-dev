@@ -8,7 +8,7 @@
 
 ### 💻 Tech Stack & Skills
 
-*   **Languages:** Python, C, Java, JavaScript, Apex
+*   **Languages:** Python, C, Java, C++
 *   **Web & Cloud:** MERN Stack, Salesforce (Agentforce / Trailhead)
 *   **AI & Tools:** Git, GitHub, Machine Learning libraries, VS Code
 
