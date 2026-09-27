@@ -18,14 +18,14 @@
 
 *   **Stock Management:** A production-style PHP/MySQL web application that digitises the entire stationery and stock-request workflow of an engineering college. Built for deployment on a WAMP server with no external PHP dependencies. 
 
-Link:https://github.com/anjaliajithofficial-dev/Stock_Management.git
+      Link:https://github.com/anjaliajithofficial-dev/Stock_Management.git
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anjaliajithofficial-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
